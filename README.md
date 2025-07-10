@@ -9,8 +9,7 @@
 <div>
 
 <!-- Right side coding animation -->
-<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/b25d2b0f-c38a-4011-9875-bcc3d15a00e6/FwQQdaPzrl.lottie" style="width: 300px;height: 300px" speed="1" autoplay loop></dotlottie-wc>
+
 
 <!-- Profile views -->
 ![](https://komarev.com/ghpvc/?username=shrash9&label=PROFILE+VIEWS&color=FF2F40&style=flat-square)
@@ -61,7 +60,7 @@ Feel free to reach out or follow me on my social platforms. Let’s connect, col
      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrash9&theme=chartreuse-dark&hide_border=false"/> <br/>
 </div>
 
-     <br/>
+    
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrash9&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
