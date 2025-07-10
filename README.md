@@ -1,69 +1,71 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Shrasti%20Agarwal&desc=Developer%20%26%20AI%20Enthusiast&height=200&fontSize=60&fontColor=ffffff)
+<!-- Banner Image -->
 
-## 👋 Hi there, I'm Shrasti Agarwal
+<h1 align="center">
+     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shrasti+Agarwal;I'm+a+Developer+👩‍💻;I'm+an+AI+Enthusiast+🤖+🧠;I'm+a+Passionate+Coder+👩‍💻;" />
+</h1>
 
-I'm a passionate developer who loves building innovative solutions. Currently exploring the realms of AI and machine learning.
+<br>
 
----
+<div>
 
-### 🔗 Connect with Me
+<!-- Right side coding animation -->
+<script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.6.2/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/b25d2b0f-c38a-4011-9875-bcc3d15a00e6/FwQQdaPzrl.lottie" style="width: 300px;height: 300px" speed="1" autoplay loop></dotlottie-wc>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shrasti-agarwal-123456789/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/shrasti_9)
+<!-- Profile views -->
+![](https://komarev.com/ghpvc/?username=shrash9&label=PROFILE+VIEWS&color=FF2F40&style=flat-square)
 
----
+</div>
 
-### 🛠️ Technologies & Tools
+<br>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<h2 align="left">🤝 Connect with Me</h2>
 
----
+Feel free to reach out or follow me on my social platforms. Let’s connect, collaborate, and grow together!
 
-### 📂 Featured Projects
 
-#### [DelishDine - Food Delivery Website](https://github.com/shrash9/DelishDine-Food-Delivery-Website)
-A modern and user-friendly food delivery platform that connects users with local restaurants.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shrash9/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA015.svg?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shrash9/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=web&logoColor=white)](https://your-portfolio-link.com)
 
-#### [Wand Write AI](https://github.com/shrash9/Wand-Write-AI)
-An AI-powered writing assistant that helps users generate creative content effortlessly.
+<br>
 
-#### [Traffic Management System](https://github.com/shrash9/Traffic-Management-System)
-A Python-based system designed to optimize traffic flow and reduce congestion.
+<h2 align="left">Languages and Tools:</h2>
 
----
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-563d7c?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![RESTful API](https://img.shields.io/badge/RESTful_API-02569B?style=for-the-badge)](https://restfulapi.net/)
+[![ExpressJs](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![Machine Learning](https://img.shields.io/badge/Machine_Learning-06595C?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning)
+[![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)](https://www.json.org/json-en.html)
+[![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
-### 📊 GitHub Stats
+<br>
 
-![Shrasti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shrash9&show_icons=true&theme=radical)
+## 📊 GitHub Stats:
+<div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=shrash9&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true"/> <br/>
+</div>
+<br/>
+<div align="center">
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrash9&theme=chartreuse-dark&hide_border=false"/> <br/>
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shrash9&layout=compact&theme=radical)
+     <br/>
+<div align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrash9&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+</div>
 
----
+<br>
 
-### 🧠 Currently Learning
-
-- Machine Learning with Python
-- Deep Learning frameworks like TensorFlow and PyTorch
-- Advanced JavaScript and TypeScript
-
----
-
-### 📈 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrash9&theme=radical)
-
----
-
-### 💬 Fun Fact
-
-I believe in the power of community and open-source contributions. Let's build something amazing together!
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Let's%20Build%20Together&height=100&fontSize=30&fontColor=ffffff)
+[![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shrash9&theme=chartreuse-dark&hide_border=false)](https://github.com/shrash9/) 
